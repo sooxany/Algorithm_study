@@ -11,7 +11,6 @@ member.sort(reverse=True)
 # --> 3 2 2 2 1
 
 # 공포도가 낮은 사람은 최대한 혼자 팀을 이룰 수 있도록 냅두기
-
 while i < N:
     if i+member[i] <= N:
         teams += 1
