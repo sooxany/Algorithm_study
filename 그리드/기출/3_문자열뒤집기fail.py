@@ -25,7 +25,7 @@ else:
             cnt +=1
     res = cnt
 
-print(cnt)
+print(res)
 
 
 
