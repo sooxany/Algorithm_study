@@ -1,3 +1,5 @@
+#함수만 짠 코드
+
 def solution(s):
     answer = len(s)
     # 1개 단위부터 압축 단위를 늘려가며 확인
